@@ -1,0 +1,12 @@
+Redesign for terrible website I used for the subject of my web design presentation: http://www.headhunterhairstyling.com
+
+GOALS: I'm going to try and fix the most obvious problems with the site. Elimination of the tiled background in favor of using the beach image for just the header. I will edit the image also to look a bit nicer, maybe throw on a couple filters with levels in Photoshop. Elimination of image clutter and useless pages, such as the "Favorite Websites, Download Page, How Do I Get There Page." Directions will be on the Home Page. Update of color scheme. I will implement a wrapper with rounded corners and box-shadow for nice effect.
+
+TARGET AUDIENCE: Target audience is likely women, who are on the search for a quality hair stylist. The stylist's website should reflect competence when it comes to matters of design given the nature of the business; so I will be adding elements with more style and less craziness. I will be sticking to lighter and softer colors for a more feminine appeal.
+
+PAGES:
+Home - Basic welcome text, What's New column for updates, and directions + basic info
+Stylists - short bio for each stylist, with web-optimized images
+Services - services and pricing, keep tables and add better design?
+Products - short list of preferred products, with web-optimized images
+Contact - more detailed contact information
